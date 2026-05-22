@@ -36,4 +36,4 @@ Here are a few tools I've built to solve real-world testing challenges using Non
 * **Performance Engineering:** Designed comprehensive load testing scenarios in k6 using Open Workload models to stress-test data ingestion pipelines, validating system resilience under high concurrency, focusing on Kafka lag and ECS auto-scaling limits.
 
 ---
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/og-qa) | [cite_start][Telegram](https://t.me/lukeglantonq)
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/og-qa) | [Telegram](https://t.me/lukeglantonq)
